@@ -1,0 +1,4 @@
+name: VFO
+version: '${version}'
+main: org.server.vfo.VFO
+api-version: '1.19'
